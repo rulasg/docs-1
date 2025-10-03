@@ -36,7 +36,6 @@ In most cases, you can create an enterprise account **yourself**.
 You'll **need help** creating an enterprise account if you require:
 
 * {% data variables.product.prodname_ghe_server %}
-* {% data variables.enterprise.data_residency %}
 * Invoicing
 * A dedicated enterprise for managing {% data variables.copilot.copilot_for_business %} licenses without adopting {% data variables.product.prodname_enterprise %}
 
